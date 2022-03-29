@@ -1,0 +1,35 @@
+{
+  "name": "test_sunsniffer",
+  "version": "1.0.0",
+  "description": "Test task for Sunsniffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcromster/test_sunsniffer.git"
+  },
+  "keywords": [
+    "Sunsniffer"
+  ],
+  "author": "ROM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcromster/test_sunsniffer/issues"
+  },
+  "homepage": "https://github.com/dcromster/test_sunsniffer#readme",
+ "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.0.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.4",
+    "jest": "^27.4.7",
+    "prettier": "2.5.1",
+    "prettier-package-json": "^2.6.0"
+  }
+
+}
